@@ -1,0 +1,17 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+ssh-keygen -t rsa -C "mariale2011belizario@gmail.com"
+Enter passphrase (empty for no passphrase): [2131240320112111]
+Enter same passphrase again: [2131240320112111]
+cat ~/.ssh/id_rsa.pub
